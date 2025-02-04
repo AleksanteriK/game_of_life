@@ -12,6 +12,7 @@ from there
 ## Built with
 Ncurses terminal graphics library
 
+## Screenshots
 
 ![Picture of menu](https://github.com/AleksanteriK/game_of_life/blob/master/menu.jpg?raw=true)
 

@@ -1,6 +1,17 @@
-My implementation of John Conway's cellular automata "Game of Life"
+# John Conway's cellular automata "Game of Life"
 
-both versions with and without ncurses
+This repository holds my implementation of John Conway's game of life cellular automata
+
+There are source code's for one version without using ncurses library and one that uses ncurses
+
+Both versions can read the starting alive and dead cells from a text file and start the simulation
+
+from there
+
+
+## Built with
+Ncurses terminal graphics library
+
 
 ![Picture of menu](https://github.com/AleksanteriK/game_of_life/blob/master/menu.jpg?raw=true)
 
